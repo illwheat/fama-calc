@@ -44,8 +44,8 @@ button{
     border: none;
     background-color :black;
     color: white;
-    overflow: hidden; /* Prevent overflow of text */
-    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden;
+    white-space: nowrap;
     text-overflow: ellipsis;
 }
 
